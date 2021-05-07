@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JehadAbuKhaleel/amazona-app.git"
+    "url": "git+https://github.com/JehadAbuKhaleel/amazona.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JehadAbuKhaleel/amazona-app/issues"
+    "url": "https://github.com/JehadAbuKhaleel/amazona/issues"
   },
-  "homepage": "https://github.com/JehadAbuKhaleel/amazona-app#readme",
+  "homepage": "https://github.com/JehadAbuKhaleel/amazona#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.2.0",
